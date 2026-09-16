@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "fireworks": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "REPLACE_WITH_WHEEL_HTTPS_URL",
+        "fireworks-graph-mcp"
+      ],
+      "env": {
+        "SKILL_SERVICE_DATA": "/tmp/fireworks-graph-mcp-data"
+      }
+    }
+  }
+}

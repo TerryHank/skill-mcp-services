@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mineru": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "REPLACE_WITH_WHEEL_HTTPS_URL",
+        "mineru-book-mcp"
+      ],
+      "env": {
+        "SKILL_SERVICE_DATA": "/tmp/mineru-book-mcp-data"
+      }
+    }
+  }
+}
