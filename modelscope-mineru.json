@@ -4,7 +4,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "REPLACE_WITH_WHEEL_HTTPS_URL",
+        "https://raw.githubusercontent.com/TerryHank/skill-mcp-services/main/releases/mineru_book_mcp-0.1.0-py3-none-any.whl",
         "mineru-book-mcp"
       ],
       "env": {

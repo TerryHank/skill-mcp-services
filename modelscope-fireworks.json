@@ -4,7 +4,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "REPLACE_WITH_WHEEL_HTTPS_URL",
+        "https://raw.githubusercontent.com/TerryHank/skill-mcp-services/main/releases/fireworks_graph_mcp-0.1.0-py3-none-any.whl",
         "fireworks-graph-mcp"
       ],
       "env": {
